@@ -1,5 +1,6 @@
 #支持私库
 langgenius/dify-api:0.9.1
 langgenius/dify-web:0.9.1
+python:3.10-slim-bookworm
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
