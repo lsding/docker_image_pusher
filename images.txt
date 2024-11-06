@@ -4,6 +4,6 @@ langgenius/dify-web:0.9.1
 langgenius/dify-sandbox:0.2.9
 python:3.10-slim-bookworm
 python:3.11-slim-bookworm
-eclipse-mosquitto
+emqx/emqx:5.8.1
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
