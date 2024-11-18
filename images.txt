@@ -10,5 +10,6 @@ infiniflow/infinity:v0.5.0-dev2
 mysql:8.0.39
 quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
 valkey/valkey:8
+infiniflow/ragflow:dev-slim
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
