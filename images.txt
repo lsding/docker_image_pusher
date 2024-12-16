@@ -4,7 +4,6 @@ langgenius/dify-web:0.9.1
 langgenius/dify-sandbox:0.2.9
 python:3.10-slim-bookworm
 python:3.11-slim-bookworm
-arm64v8/python:3.11-slim-bookworm
 emqx/emqx:5.8.1
 docker.elastic.co/elasticsearch/elasticsearch:8.11.3
 infiniflow/infinity:v0.5.0-dev2
