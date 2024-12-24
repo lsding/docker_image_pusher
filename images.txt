@@ -6,4 +6,4 @@ redis:7.2.4
 #支持指定架构
 multiarch/qemu-user-static
 --platform=linux/arm64 ubuntu:22.04
-pytorch/pytorch:1.12.1-cuda11.3-cudnn8-runtime
+pytorch/pytorch:1.13.1-cuda11.6-cudnn8-runtime
