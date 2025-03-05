@@ -4,3 +4,4 @@ python:3.11-slim-bookworm
 #支持指定架构
 pytorch/pytorch:2.1.2-cuda11.8-cudnn8-devel
 kalicyh/poetry:v3.10_xiaozhi
+ghcr.nju.edu.cn/xinnan-tech/xiaozhi-esp32-server:latest
