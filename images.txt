@@ -8,3 +8,4 @@ ghcr.nju.edu.cn/xinnan-tech/xiaozhi-esp32-server:latest
 semitechnologies/weaviate:stable-v1.30-4aebaa5
 postgres:15-alpine
 mysql:8.0.39
+dbeaver/cloudbeaver
