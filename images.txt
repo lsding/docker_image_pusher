@@ -2,7 +2,4 @@
 python:3.11-slim-bookworm
 --platform=linux/arm64 python:3.10-slim-bookworm
 #支持指定架构
-postgres:15-alpine
-mysql:8.0.39
-ultralytics/ultralytics:latest
-vllm/vllm-openai:nightly
+vllm/vllm-openai:latest
