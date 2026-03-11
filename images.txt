@@ -12,4 +12,4 @@ dbeaver/cloudbeaver
 pytorch/pytorch:2.8.0-cuda12.8-cudnn9-runtime
 pytorch/pytorch:2.8.0-cuda12.8-cudnn9-devel
 ultralytics/ultralytics:latest
-vllm/vllm-openai:v0.11.2
+vllm/vllm-openai:nightly
